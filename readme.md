@@ -1,7 +1,8 @@
 # Orbiter Checker
-<p style="background-color: black; display: inline-block; padding: 10px;">
-  <img src="src/logo.png" alt="Orbiter Finance" />
+<p style="background-color: black; display: inline-block; padding: 5px;">
+  <img src="src/logo.png" alt="Orbiter Finance" style="width: 300px;" />
 </p>
+
 
 - This is a simple Rust program that checks the Orbiter API for a list of wallets and calculates the potential value of the tokens in USD.
 - If your wallet is eligible, it will print the potential value of the tokens in USD.
