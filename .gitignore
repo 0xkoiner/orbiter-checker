@@ -1,0 +1,11 @@
+/target/
+
+Cargo.lock
+
+.idea/
+.vscode/
+
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+.env
